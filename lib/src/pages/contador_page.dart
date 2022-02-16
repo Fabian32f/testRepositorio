@@ -23,7 +23,7 @@ class _ContadorPageState extends State<ContadorPage>{
 Widget build(BuildContext context){
   return Scaffold(
     appBar: AppBar(
-      title: Text('Mi ProgramA Fabian: FABIAN'
+      title: Text('Mi PrograMA Fabian: FABIAN'
       ''),
       centerTitle: true,
       
